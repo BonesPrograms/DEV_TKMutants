@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objects>
+  <object Name="SkulkTonic" Inherits="Tonic" Load="Merge">
+    <part Name="RulesDescription" Text="Duration: 1001-1200 rounds
+Your movement speed is increased by 25% at night and underground but reduced by 20% in the daylight.
++3 Agility at night and underground -3 Agility in the daylight
+You can see in the dark (radius 8).
+You grow burrowing claws.
+You suffer double damage from light-based attacks." AltForGenotype="True Kin" GenotypeAlt="Duration: 1001-1200 rounds
+Your movement speed is increased by 40% at night and underground but reduced by 20% in the daylight.
++4 Agility at night and underground -3 Agility in the daylight
+You can see in the dark (radius 8).
+You suffer double damage from light-based attacks.
+{{Y|[}}{{W sequence|MOD}}{{Y|]}}You grow burrowing claws." />
+  </object>
+  <object Name="NectarTonic" Inherits="Tonic" Load="Merge">
+   <part Name="RulesDescription" Text="You gain either a permanent +1 bonus to a random attribute or one mutation point." AltForGenotype="True Kin" GenotypeAlt="You gain one attribute point and {{Y|[}}{{W sequence|MOD}}{{Y|]}} one mutation point." />
+</object>
+</objects>

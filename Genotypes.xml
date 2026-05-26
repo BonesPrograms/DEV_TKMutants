@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<genotypes>
+  <genotype Name="True Kin" MutationPoints="12" AllowedMutationCategories="*" IsTrueKin="true" DisplayName="True Kin" IsMutant="true" Tile="Chimers.png" DetailColor="R" BaseMPGain="1"  CharacterBuilderModules="XRL.CharacterBuilds.Qud.QudMutationsModule">
+   <extrainfo>{{Y sequence|[Hybrid]}}</extrainfo>
+   <extrainfo>{{G sequence|Mutations}}</extrainfo>
+  </genotype>
+</genotypes>

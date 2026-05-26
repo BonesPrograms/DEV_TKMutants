@@ -1,0 +1,8 @@
+{
+  "WorkshopId": 3569991681,
+  "Title": "Hybrid: Mutated True Kin",
+  "Description": "This mod introduces new features to True Kin:\r\n- Can choose mutations at character creation\r\n- Gain MP on level up\r\n- Can buy mutations\r\n- Eater's Nectar gives additional +1 MP\r\n- Skulk Injector gives Burrowing Claws\r\n- Glimmer of Truth achievement disabled.\r\n\r\n[u]Compatibility[/u]\r\nThis mod is [b]incompatible[/b] with Hybrid: Cybernetic Mutants. Otherwise works with other hybrid mods, if they intend to have true kin tonic effects.\r\n[i]Skulk[/i] will automatically disable itself if it detects conflicts to the same type. Nectar is non-blocking and won't disable itself. Tonic mods should be fully compatible.\r\n\r\n[u]Technical[/u]\r\nEater's Nectar is updated using object blueprints for the tool tip and a non-blocking prefix injection in [i]XRL.World.Parts.Nectar_Tonic_Applicator.FireEvent()[/i]. Skulk Injector is updated using object blueprints for the tool tip and a blocking prefix injection in [i]XRL.World.Effects.Skulk_Tonic.Apply()[/i] for the effect and a postfix to [i]XRL.World.Effects.Skulk_Tonic.GetDetails()[/i] for the description. Mutant features are added using [i]Genotypes.xml[/i].",
+  "Tags": "Genotypes, mutations, Mutants, Becoming, true kin, Mutant, human, humans",
+  "Visibility": "2",
+  "ImagePath": "preview.png"
+}
