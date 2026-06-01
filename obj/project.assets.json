@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\DevVersions\\DEV_TKMutants\\Mods.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\DevVersions\\TKMutants\\Mods.csproj",
       "projectName": "Mods",
-      "projectPath": "C:\\Users\\user\\Desktop\\DevVersions\\DEV_TKMutants\\Mods.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\DevVersions\\TKMutants\\Mods.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\DevVersions\\DEV_TKMutants\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\DevVersions\\TKMutants\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
